@@ -18,38 +18,38 @@ footer {
 
 .w {
 
-background: url("images/tom1.png");
+background: url("tom1.png");
 background-size: cover;
 }
 
 .a {
-  background: url("images/tom2.png");
+  background: url("tom2.png");
   background-size: cover;
 }
 
 .s {
-  background: url("images/tom3.png");
+  background: url("tom3.png");
   background-size: cover;
 }
 
 .d {
-  background: url("images/tom4.png");
+  background: url("tom4.png");
  
   background-size: cover;
 }
 
 .j {
-  background: url("images/kick.png");
+  background: url("kick.png");
   background-size: cover;
 }
 
 .k {
-  background: url("images/snare.png");
+  background: url("snare.png");
   background-size: cover;
 }
 
 .l {
-  background: url("images/crash.png");
+  background: url("crash.png");
   background-size: cover;
 }
 
